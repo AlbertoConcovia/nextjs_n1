@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
     
       <Head>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <title>One Financial Adviser - Home Page</title>
+          <title>Alberto Concovia - Home Page</title>
           <link rel="icon" href="/ofa.ico" />
       </Head>
 
